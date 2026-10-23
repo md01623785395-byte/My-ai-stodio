@@ -1,0 +1,6 @@
+{
+  "name": "AI Creator Studio",
+  "description": "Clean and intuitive creative studio dashboard for AI image and video generation, asset library, and marketing workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
